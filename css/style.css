@@ -1,0 +1,23 @@
+* {
+    font-family: 'Heebo', sans-serif;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+.navbar-toggler {
+    border: none;
+}
+#close-btn {
+    display: none;
+}
+.navbar-toggler #open-btn:hover {
+    display: none;
+}
+.carousel-control-prev {
+    position: absolute;
+    left: 0;
+}
+.carousel-control-next-icon {
+    position: absolute;
+    right: 0;
+}
